@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabs_fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Mute Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
